@@ -3,14 +3,14 @@
 
 ### Step 1: Visit Way2Reach Website  
 **URL:** [https://way2reach.in](https://way2reach.in)  
-![step1.png](s_1.jpg)
+![](s_1.jpg)
 
 ---
 
 ### Step 2: Click on the **E-Marketplace** button on top of the page  
 **URL:** [https://market.way2reach.in](https://market.way2reach.in)  
 It will lead you to the E-Marketplace website.  
-![step2.png](s_2.jpg)
+![](s_2.jpg)
 
 ---
 
@@ -19,7 +19,7 @@ It will lead you to the E-Marketplace website.
 ---
 
 ### Step 4: Click on the **Subscribe Now** button  
-![step4.png](s_4.jpg)
+![](s_4.jpg)
 
 ---
 
