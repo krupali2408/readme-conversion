@@ -7,21 +7,21 @@
 ### Step:1
 
 #### (A) On the top-right corner of the homepage, locate the "Login" dropdown button.  
-![step1a.png](step1a.png)
+![](SN_1.png)
 
 
 
 #### (B) Select "Vendor Login"  
 • Click the dropdown under "Login".  
 • From the list, select "Vendor Login".  
-![step1b.png](step1b.png)
+![](SN_2.png)
 
 ---
 
 ### Step:2
 
 #### (A) You will be redirected to the Vendor Login form.  
-![step2a.png](step2a.png)
+![](SN_3.png)
 
 
 
