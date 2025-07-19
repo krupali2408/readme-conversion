@@ -2,17 +2,17 @@
 
 **Register Link**: - [https://testway2reach.site/vendor/register/user&company-info](https://testway2reach.site/vendor/register/user&company-info)
 
----
 
-## Process Flow:
+
+# Process Flow:
 
 ---
 
 ### Step: -1  
 **Click on the ‘Register’ Tab to Proceed:**  
-![](step1.png)
+![](VR_1.png)
 
----
+
 
 #### 1) The system will display the Vendor Registration Form:  
 The form consists of three main sections:  
@@ -20,15 +20,15 @@ The form consists of three main sections:
 2. Business Details  
 3. Review & Submit  
 
----
+
 
 #### (A) User Information:  
 • First Name  
 • Last Name  
 • Phone Number  
-![step1a.png](step1a.png)
+![](VR_2.png)
 
----
+
 
 #### (B) Company Information:  
 • Company Name  
@@ -41,9 +41,9 @@ The form consists of three main sections:
 • State  
 • MSME Number  
 • GST Number  
-![step1b.png](step1b.png)
+![](VR_3.png)
 
----
+
 
 👉 **Click the blue Next ➝ button to proceed.**
 
@@ -52,7 +52,7 @@ The form consists of three main sections:
 ### Step: -2  
 **Entering Business Details:**
 
----
+
 
 #### (1) Industries:  
 • Click on the "Select industry" dropdown.  
@@ -60,7 +60,7 @@ The form consists of three main sections:
 • Use the checkboxes to select one or more industries relevant to your business.  
 • Click the "Add" button to include it.  
 
----
+
 
 #### (2) Services:  
 • Click on the “Select services” dropdown.  
@@ -69,21 +69,21 @@ The form consists of three main sections:
 • Check the boxes beside the services that apply to your business.  
 • Click the “Add” button.
 
----
+
 
 #### (3) Type of Business:  
 • Click on the dropdown box titled “Select or add business types.”  
 • Browse and select the relevant business types from the list.  
 • Click the search icon or press Enter to add it.
 
----
+
 
 #### (4) Type of Company:  
 • Click on the dropdown labelled “Select Company Type”  
 • Scroll and select the applicable legal structure of your organization  
-![step2.png](step2.png)
+![](VR_4.png)
 
----
+
 
 👉 **Click the Green Next ➝ button to proceed.**
 
@@ -92,7 +92,7 @@ The form consists of three main sections:
 ### Step: -3  
 **Review Your Details**  
 👉 This final step allows users to review all entered details before submitting the application.  
-![step3.png](step3.png)
+![](VR_5.png)
 
 ---
 
