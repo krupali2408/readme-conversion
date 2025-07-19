@@ -8,7 +8,8 @@
 
 • The Notifications section keeps users informed of real-time updates related to Request for Quotations (RQF) and Order processing.
 
----
+
+
 
 ### Notification Triggers:
 
